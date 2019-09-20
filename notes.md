@@ -1,3 +1,26 @@
+## 09/19/19
+
+####  the origin of the planets, earth, and its moon
+
+* the fuel of our planets is not hydrogen, it's radioactivity
+* stars form bc centripetal force keeps heavy elements in the center as dust and gas keep spinning and thats how eventually it is formed
+* we are a silicon and oxygen based planet
+* iron became our mantle because it's compressible and it gets melted 
+* old submarines could be tracked because of their magnetic field
+* carbon dioxide, water, and sulfer lower the melting temperature
+* there's more gas in magma than there is lava liquid
+* our air come from volcanoes originally
+* volcanoes spew out air, oceans and life take it in, becomes stone, like the very CAS building 
+* as meteorites fall to earth, pieces of tectites fly off 
+* pluto has a lot of ice plains and mountains
+* pluto is "alive": **no crators means alive**
+* lunar marr is leftover dried salt magma that the moon bled billions of years ago
+* there are several types of meteorites:
+    * some are metals, others are stony
+* 
+
+-----
+
 ## 09/17/19
 
 #### star formation and evolution
