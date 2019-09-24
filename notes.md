@@ -1,3 +1,39 @@
+## 09/24/19
+
+**3 ways of star death**(depends on mass)
+* black hole
+* neutron star
+* white dwarf
+
+**high mass star death**
+* nuclear fusion goes beyond C and O
+* increased gravitational pressure from massive star leads to increased temperatures in core, and fusion can create elements such as Si, S, Ca, and Fe
+* all reactions up to Fe are exothermic, they release energy.
+* in order to create error
+* stars have a series of shells
+* steps in producing a supernova
+* one the core is Fe, it will contract and heat. the contraction is rapid
+* after 0.25s of contraction, there core has R < 30m
+* the shock reaches the star's surface after a few hours
+  
+**Different types of supernovae**
+* a white dwarf in a binary system with a red giant can have a mass transferred onto it
+* if the mass is then greater than the Chandrasekhar limit(1.4 times the size of the sun), the pressure will rise, C fusion will occur, T will rise, and the white dwarf explodes
+
+**other differences**
+* core collapse supernovae are found near sites of star formation(spiral arms)
+* SN 1a(white dwar SNe) are found in galaxies with little or no star formation(older stars)
+* core collapse supernovae leave behind core
+* SN 1a leave behind no core
+* there are differences in the light curves, because the different elemental abundances and their radioactive decays create light curve shapes.
+* **SN 1a** can be used as standard candles and they can be seen to great distances, used for Dark Energy discovery!
+* the peak brightness is ~same for all SN 1a, qualified by the decay rate
+* we expect the same brightness because all SN 1a progenitors have the same mass(just off 1.4 times the mass of the sun)
+
+**planet formation**
+* planets form along with stars from collapsing clouds
+* **nebular theory**: planets form in a co-rotation disk
+
 ## 09/19/19
 
 ####  the origin of the planets, earth, and its moon
