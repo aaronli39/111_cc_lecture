@@ -1,3 +1,54 @@
+## 09/26/19
+
+#### exoplanets
+* planets and star attract each other
+
+**doppler technique**
+* measuring a stars doppler shift can tell us its motion towards and away from us
+* current techniques can measure motions as small as 1 m/s
+* delta lamba / lamba = velocity / c
+* **redshift:** moving away frmo us, **blueshift:** moving towards us
+
+**nebular theory after hot jupiters**
+* planets did not necessarily form where they are
+* planets likely *migrate* around the solar system after formation
+* migration mechanisms are not fully understood
+
+**extrasolar planets**
+* exoplanet: a planet that *does not* orbit the Sun
+* only recently discovered(early 1990s)
+* today we know thousands of exoplanets, the vast majority of which orbit other stars, but some are *free-floating*
+* the same criteria that we use to determine whether or not a planet is a planet in our solar system is used to determine the eiligibility of other exoplanets
+
+**exoplanets are very hard to detect directly**
+* a sun like star is about a billion times brighter than the light reflected from it's planets
+* this is like trying to see a firefly next to a searchlight
+
+**techniques for indirect detection**
+bolded items below are the most popular methods of detection
+* pulsation timing
+* **the doppler technique**
+* **the transit technique**
+* direct dectection
+
+**transit + doppler**
+* transit tells you the orientation of the planet's orbital plane
+* mass + radius -> density of the planet
+* start to make statements about composition
+* the orbital plane has to be in the line of sight or else u wont see the dimming of the planets and star light
+
+**calculating density**
+* using mass, determined using the doppler technique, and size, determined using the transit technique, density can be calculated
+* **hot jupiters** are closer to the sun and similar in size to our jupiter
+* **cold jupiters** are farther frmo the sun and similar in size to jupiter
+
+#### dating the earth(geochronology)
+* melting of the mantle is what spews up carbon dioxide and air and h20
+* earths core is solid due to pressure
+
+
+-----
+
 ## 09/24/19
 
 **3 ways of star death**(depends on mass)
