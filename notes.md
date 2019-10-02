@@ -1,3 +1,28 @@
+## 10/01/19
+
+**early earth**
+* early homogenous mix of iron, oxygen, silicon, and magnesium
+* the radioactive elements: uranium, thorium, potassium
+* volatiles lower the melting temperature
+* iron and nickel sank, form the **core**
+    * the "iron catastrophe
+    * result: 3 main layers: crust, core, mantle
+* the oldest rocks on earth are always on land and never under water
+* we only find rocks up to 4.0 billion years because earth's tectonic plates and lava flow destroyed the older rocks
+
+**determining the ages of rocks: geochronology**
+
+**radioactive decay**
+* we cant predict when any particular atom will decay, but there is a constant rate of decay of a population of parent atoms, governed by probability(the decay constant of a particular radioactive isotope)
+* equation for radioactive decay: `dN/dt = -(lamba)N`
+* radioactive decay is a natural clock because it is constant and is not affected by environment, just over time
+* two different isotopes can have very different half-lives
+* concordia's curve is what's used to determine age 
+* **chondrites** are silicone and oxygen based meteorites
+* a comet is the opposite of a meteorite: CO2 and H2O(ice)
+* water came from volcanoes, melted CO2/H20
+* 
+
 ## 09/26/19
 
 #### exoplanets
