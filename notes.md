@@ -1,3 +1,28 @@
+## 10/03/19
+
+* where did Earth's water come from? Only about 10% came from comets, and most of it probably came from carbonaceous chondrictic impacts like the one that formed the moon
+* Earth is the only planet in our solar system that has subduction plate tectonics: one where a plate slides beneath another plate and melts and then goes into the mantle, which later rises as mantle diapirs
+
+**Plate tectonics**
+* Wegener proposed the idea of Pangea, but it was laughed upon
+* convection currents are what form diverging and subduction effects
+* average rate of seafloor spreading: 6cm/year
+* the north and south floors flip
+* subduction is constantly destroying ocean crust, which is why the ocean crust isnt that old
+
+**wilson cycle**
+* rifting subduction collision
+* appalachian
+* serpentine
+* only forms from collsions
+* when indea crashed w asian plate, it formed the himalayas
+
+* rifts create new ocean crust
+* seismic waves used to track the internals of the earth
+* richter scale is a log scale
+
+-----
+
 ## 10/01/19
 
 **early earth**
@@ -21,7 +46,8 @@
 * **chondrites** are silicone and oxygen based meteorites
 * a comet is the opposite of a meteorite: CO2 and H2O(ice)
 * water came from volcanoes, melted CO2/H20
-* 
+
+-----
 
 ## 09/26/19
 
