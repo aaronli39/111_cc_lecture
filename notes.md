@@ -1,3 +1,36 @@
+## 10/08/19
+
+* two ways continents grow
+    * igneous rocks(magma formed)
+    * accretion(scraped off ocean crust)
+* Earth has **14 tectonic plates**
+
+#### climate
+
+**ice ages**
+* every 100,000 years or so, earth undergoes an ice age
+* this is because earths orbit becomes very elliptical, so much of the year is cold
+* ice is always moving downhill even when melting or freezing back
+* origins
+    * ice ages can happen accidentally
+* **precession**: change axis of orbit
+* **obliquition**: change in tilt of rotatino
+
+**types of pollutino**
+* combustion: pollutant as a directr discharge of industry and cars(carbon dioxide, nitrous oxide)
+* photochemical sunlight needed(ozone)
+
+* air pollution can be local, regional, or global
+* Earth's CO2 was balanced until recent human influence
+* **inversion layer**
+    * cold air from mountains and oceans is more dense than warm air, so cold air becomes trapped. this is bad because if theres air pollution the air is trapped like a lid
+* **all greenhouse gases are increasing**
+    * water is a greenhouse gas. **cold water** holds more ice
+* **keeling curve** is the curve/line of increasing CO2
+* 
+
+-----
+
 ## 10/03/19
 
 * where did Earth's water come from? Only about 10% came from comets, and most of it probably came from carbonaceous chondrictic impacts like the one that formed the moon
