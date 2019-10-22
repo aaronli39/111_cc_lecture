@@ -1,11 +1,31 @@
+
+
+-----
+
+## 10/10/19
+
+* simple microbes came during the archean.
+* oldest life probably came at **3.8 billion years** ago in Australia
+* algae is what helped produce earths oxygen
+* animals came 800 million years ago
+* **Law of superposition**: older rocks on bottom, younger rocks on button
+* older rocks would be downstream
+* **tertiary impact** is the crustacean period.
+    * there is an extinction every about 27 million years
+    * when the largest exctinction happened, it wiped out half of species
+* **age of mammals**: last 66 million years 
+* rounded wood - drift wood, along with silicon and volcanic ash
+* humans are so young on earth but population growth is happening so fast
+* 
+
+-----
+
 ## 10/08/19
 
 * two ways continents grow
     * igneous rocks(magma formed)
     * accretion(scraped off ocean crust)
-* Earth has **14 tectonic plates**
-
-#### climate
+* Earth has **14 tectonic plates** 
 
 **ice ages**
 * every 100,000 years or so, earth undergoes an ice age
