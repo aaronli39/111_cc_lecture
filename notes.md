@@ -13,6 +13,32 @@
             * **reverse citric cycle**: using energy to build more complex organic molecules could have been the alternate primitive form of metabolism
     * 
 
+## 10/31/19
+
+* DNA: stores information in cell
+* protein: carry out functions in a cell
+* RNA: messenger between these two
+
+* gene: a really long sentence, and broken into triplets called codons, and they create specific protein
+
+**DNA**
+* DNA replications requires protein
+* transcription of RNA requires proteins
+* ribomes: links amino acids together
+* riboomal a
+* sine highly peserved 99
+* ppr-erera: sugar backbone, what exists in pre-rna is pretty much what appears in proteins
+* clay crystals could represnt "pre-life"
+    * not enough evidence to support this
+* timeline: formation of earth > stable hydrosphere > prebiotic life > pre-rna life > rna world 
+
+**origins of membranes**
+* organized in bilayer structures(hydrophilic head) that have phospholipid bilayers, and two fatty acid forming a hyodrophoic layer
+    * this happens spontaneously, water heads will try to interact with water and the hydrophobic layer will try to interact with fats
+* membranes are very fluid
+* in early life, fatty acids may have formed the **membrane**, and there is evidence to suggest that they formed naturally near hydrothermal vents
+* 
+
 -----
 
 ## 10/10/19
