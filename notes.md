@@ -1,4 +1,17 @@
+## 11/05/19
 
+* **glycolysis**: splitting sugars(did not occur first) 
+    * pyruvate is a product of glycolysis
+* **citric acid cycle**: strip sugars down to get high-energy electrons
+* **oxidative phosphorylation and electron transport**: use high-energy electrons to make a gradient, then use the gradient to make ATP
+* genetic information or metabolsim could have come first
+    * **if metabolism came first**: that means proteins weren't around, so you'd need:
+        * a source of energy
+        * a supply of molecules
+        * a self-replicating cycle(it will keep occuring to produce more complex molecules)
+            * **iron-sulfer world hypothesis**
+            * **reverse citric cycle**: using energy to build more complex organic molecules could have been the alternate primitive form of metabolism
+    * 
 
 -----
 
