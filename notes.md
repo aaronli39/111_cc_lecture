@@ -1,3 +1,16 @@
+## 11/07/19
+
+**mendelian experiment**
+* the offspring are a resul of tee 
+* **Puneett's square** is usde to calculate cross genotypes
+
+* lemarkian evolution vs darwinian evolution: lemark believed that the changes would appear during the organism's lifetime, and darwin believed in selection and over a few generations
+
+* what causes mutations?
+    * the huge number of cell divisions and the room for a possible mistake
+
+-----
+
 ## 11/05/19
 
 * **glycolysis**: splitting sugars(did not occur first) 
@@ -11,7 +24,8 @@
         * a self-replicating cycle(it will keep occuring to produce more complex molecules)
             * **iron-sulfer world hypothesis**
             * **reverse citric cycle**: using energy to build more complex organic molecules could have been the alternate primitive form of metabolism
-    * 
+
+-----
 
 ## 10/31/19
 
