@@ -1,3 +1,17 @@
+## 11/12/19
+
+* natural selection **isn't the only way** that causes populations to evolve
+
+**speciation**
+* if populations diverge ecologically, when reintroduced the populations may have become separate species due to:  
+    * behavioral differences that prevent mating
+    * biological differences that prevent formation of fertile offspring(proteins in the male/female reproduction process may have become incompatible)
+* is always on-going
+* prokaryotes are not simple at all
+* eurkaryotes obtained **mitochondrai** during a process called: *endosymbiosis*. This is when one organism lives inside another and benefits the both of them
+
+* hhere are unicellcular plants and animals todAY
+
 ## 11/07/19
 
 **mendelian experiment**
