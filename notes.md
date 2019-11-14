@@ -20,7 +20,6 @@
 * most early multicellular animals are not bilaterally symmetrical
 * bilateral symmetry has evolved in parallel(in jellyfish, sea cucumbers, etc) so they conut as an evolutionary certainty
 * the **trophic** escalation at the precambrian-cambrian boundary marks the onset of **predation** and predator defenses
-* 
 
 -----
 
