@@ -1,3 +1,29 @@
+## 11/14/19
+
+**cambrian explosion**
+* rich fossil record during this time
+* explosion of life
+* many major **phyla**(groups with similar body plans) appeared
+* cause for rapid diversification is **unknown**
+    * mayhaps onset of predation? Maybe hard parts provided defense
+        * hard parts are more likely to fossilize compared to squishy things
+    * change in oxygen levels? high O2 would allow evolution of energy-demanding adapation(more complex parts of an organism)
+    * maybe there was a change in genetics
+        * **Hox genes** may have been involved during this time period, hox genes help control body plans and:
+            * regulate transcriptino of other genes
+            * one Hox gene regulates the identity of a body segment(eg: a head needs to grow here, an arm there)
+            * probably evolved **prior** to the Cambrian Explosion
+            * a **single mutation** in Hox genes can cause massive changes to body plans
+  
+**ediacaran life**(pre-Cambrian)
+* the order in which traits are acquired in the line of dsecent is the **key** information biologists use
+* most early multicellular animals are not bilaterally symmetrical
+* bilateral symmetry has evolved in parallel(in jellyfish, sea cucumbers, etc) so they conut as an evolutionary certainty
+* the **trophic** escalation at the precambrian-cambrian boundary marks the onset of **predation** and predator defenses
+* 
+
+-----
+
 ## 11/12/19
 
 * natural selection **isn't the only way** that causes populations to evolve
